@@ -1,1 +1,3 @@
-# traffic-accidents-forecasting
+# 🚗 Time Series Analysis of Motor Vehicle Collisions in the United States
+
+A simple data analysis project in R. We analyzed over six million annual traffic incidents across 48 states (2016–2023) to address road safety and optimize emergency resource allocation. We conducted exploratory tests revealing autocorrelation and non-stationarity, prompting data transformation and advanced time series modeling and evaluated multiple models, identifying ARMA(4, 2) as the most effective for forecasting accident counts, leveraging significant lags to capture systematic trends and disruptions. Finally, we provided actionable insights to improve proactive interventions, reduce road fatalities, and ensure safer traffic management strategies.
